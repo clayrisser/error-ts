@@ -34,7 +34,7 @@ if (Error.captureStackTrace != null) {
   };
 }
 
-export class ErrorTS extends Error {
+export default class ErrorTS extends Error {
   public message: string = '';
 
   public name: string;
