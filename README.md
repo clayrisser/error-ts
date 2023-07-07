@@ -4,6 +4,8 @@
 
 > typescript errors
 
+![](assets/error-ts.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Installation
